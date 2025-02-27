@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/unclebigbay/Desktop/1234/miva/student-record-system/output/StudentRecordSystem'
+relocations:     []
+...
